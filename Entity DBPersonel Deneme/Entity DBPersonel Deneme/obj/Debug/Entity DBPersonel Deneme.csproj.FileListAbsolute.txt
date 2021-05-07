@@ -1,0 +1,30 @@
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\Entity DBPersonel Deneme.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\Entity DBPersonel Deneme.exe
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\Entity DBPersonel Deneme.pdb
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\EntityFramework.dll
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\EntityFramework.xml
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity_DBPersonel_Deneme.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity_DBPersonel_Deneme.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.csproj.CopyComplete
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.exe
+C:\Users\profe\Desktop\Visual Projeler\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.pdb
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\Entity DBPersonel Deneme.exe.config
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\Entity DBPersonel Deneme.exe
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\Entity DBPersonel Deneme.pdb
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\EntityFramework.dll
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\EntityFramework.xml
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity_DBPersonel_Deneme.Form1.resources
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity_DBPersonel_Deneme.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.csproj.CopyComplete
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.exe
+C:\Users\profe\Desktop\Visual Projects\Entity DBPersonel Deneme\Entity DBPersonel Deneme\obj\Debug\Entity DBPersonel Deneme.pdb

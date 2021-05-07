@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBPersonelEntityModelStoreContainer" CdmEntityContainer="DBPersonelEntityEntities">
+    <EntitySetMapping Name="TblPersonel">
+      <EntityTypeMapping TypeName="DBPersonelEntityModel.TblPersonel">
+        <MappingFragment StoreEntitySet="TblPersonel">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Şehir" ColumnName="Şehir" />
+          <ScalarProperty Name="Maaş" ColumnName="Maaş" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+          <ScalarProperty Name="Yaş" ColumnName="Yaş" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
